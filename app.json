@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "KidsFlix",
+    "slug": "KidsFlix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/logo.jpeg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./app/assets/logo.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/logo.jpeg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/logo.jpeg"
+    }
+  }
+}
